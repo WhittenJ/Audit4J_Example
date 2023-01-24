@@ -1,0 +1,7 @@
+target/
+
+.project
+
+# Editor and IDE Specific
+.vscode/
+.settings/
